@@ -17,7 +17,7 @@ function App() {
           - NGINX<br />
           - Git<br />
           - Github<br />
-          - Travis-ci<br />
+          - Travis-CI<br />
           - AWS Elasticbeanstalk<br />
           <br />
           <a
