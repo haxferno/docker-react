@@ -19,6 +19,7 @@ function App() {
         </p>
         <a
           className="App-link"
+          href="https://github.com/Inferno24/docker-react"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
