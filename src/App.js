@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Welcome to my Arc-React Project<br />
+          -By Pranjal Patel-<br />
           <br />
           Created using:<br />
           - Docker<br />
@@ -24,7 +25,7 @@ function App() {
             href="https://github.com/Inferno24/docker-react"
             target="_blank"
           >
-            <font color="FFFFFF"><b>~My Git Repository~</b></font>
+            <font color="FFFFFF"><b>My Git Repository</b></font>
           </a><br />
         </p>
         <a
