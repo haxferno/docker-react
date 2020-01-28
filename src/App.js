@@ -18,9 +18,12 @@ function App() {
           - Travis-ci<br />
           - AWS Elasticbeanstalk<br />
           <br />
-          <a 
-          href="https://github.com/Inferno24/docker-react"><font color="FFFFFF"><b>My GitHub Link</b></font>
-          target="_blank"
+          <a
+            className="App-link" 
+            href="https://github.com/Inferno24/docker-react"
+            target="_blank"
+          >
+            <font color="FFFFFF"><b>My GitHub Link</b></font>
           </a><br />
         </p>
         <a
