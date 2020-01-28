@@ -8,9 +8,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <b Welcome to my Arc-React Project ><br />
+          Welcome to my Arc-React Project<br />
           <br />
-          Created using: ></b><br />
+          Created using:<br />
           - Docker<br />
           - Node.js<br />
           - Git<br />
