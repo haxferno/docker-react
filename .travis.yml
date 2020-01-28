@@ -1,8 +1,7 @@
-# sudo: required
-language:
-    - Node.js
+sudo: required
 services:
     - docker
+
 before_install:
     - docker build -t inferno24/docker-react -f Dockerfile.dev .
 
@@ -18,7 +17,7 @@ deploy:
     bucket_path: "docker"
     on:
         branch: master
-    access_key_id: $AWS_ACCESS_ID
+    access_key_id: $AWS_ACCESS_KEY
     secret_access_key: $AWS_SECRET_KEY
 
     

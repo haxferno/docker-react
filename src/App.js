@@ -8,8 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <b> Welcome to my Arc-React Project<br />
-          -By Inferno_Pranjal-</b><br />
+          <b>Welcome to my Arc-React Project<br />
+          -By Pranjal Patel-</b><br />
           <br />
           Created using:<br />
           - Docker<br />
