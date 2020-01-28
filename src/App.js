@@ -8,17 +8,25 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome to my Arc-React Project<br />
+          <b>Welcome to my Arc-React Project<br />
+          -By Pranjal Patel-</b><br />
           <br />
           Created using:<br />
           - Docker<br />
           - Node.js<br />
+          - NGINX<br />
           - Git<br />
           - Github<br />
           - Travis-ci<br />
           - AWS Elasticbeanstalk<br />
           <br />
-          href="https://github.com/Inferno24/docker-react"<br />
+          <a
+            className="App-link" 
+            href="https://github.com/Inferno24/docker-react"
+            target="_blank"
+          >
+            <font color="FFFFFF"><b>My Git Repository</b></font>
+          </a><br />
         </p>
         <a
           className="App-link"
