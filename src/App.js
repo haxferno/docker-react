@@ -13,6 +13,7 @@ function App() {
           Created using:<br />
           - Docker<br />
           - Node.js<br />
+          - NGINX<br />
           - Git<br />
           - Github<br />
           - Travis-ci<br />
