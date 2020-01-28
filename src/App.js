@@ -8,9 +8,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome to my Arc-React Project<br />
+          <b Welcome to my Arc-React Project ><br />
           <br />
-          Created using:<br />
+          Created using: ></b><br />
           - Docker<br />
           - Node.js<br />
           - Git<br />
@@ -23,7 +23,7 @@ function App() {
             href="https://github.com/Inferno24/docker-react"
             target="_blank"
           >
-            <font color="FFFFFF"><b>My GitHub Link</b></font>
+            <font color="FFFFFF"><b>~My Git Repository~</b></font>
           </a><br />
         </p>
         <a
